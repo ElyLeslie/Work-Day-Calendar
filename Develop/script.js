@@ -21,7 +21,7 @@ var hoursTotalEl  = $(".container");
 
 
 
-//hoursTotalEl.addClass('w-25');
+//shoursTotalEl.addClass('w-25');
 var hourArray = [{
     hour: 9,
    todo: '',
